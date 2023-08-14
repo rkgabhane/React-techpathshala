@@ -1,0 +1,18 @@
+.head{
+    height: 10vh;
+    background-color: gray;
+    padding: 5px;
+    vertical-align: middle;
+}
+.head .logo img{
+    height: 9vh;
+    border-radius: 50%;
+}
+.head  .nav{
+    display: flex;
+    justify-content: end;
+    flex-direction: row;
+}
+.heading{
+    color: black;
+}
